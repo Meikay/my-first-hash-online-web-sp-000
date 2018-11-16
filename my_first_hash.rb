@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  social_media = {"Instagram" => "7", "facebook" => "4", "snapchat" => "4", "twitter" => "8"}
   
 end
 
